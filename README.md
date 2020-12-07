@@ -1,2 +1,2 @@
-# classC-33
-Complete Angry Birds game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
